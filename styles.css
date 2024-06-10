@@ -23,6 +23,8 @@ body {
 	justify-content: space-around;
 	border: 3px solid black;
 	background-color: white;
+	margin: 0 auto;
+	margin-top: 200px;
 }
 /*
 left box
